@@ -25,7 +25,7 @@ Visual Studio Code is a powerful and versatile code editor that will be used thr
     ```
     **(Optional: A screenshot of the terminal/command prompt showing the successful version output could be helpful.)**
 
-![VSCode Installation](./img/VS_Code_Statup.png)
+![VSCode Installation](/VS_Code_Statup.png)
 
 ### 2. Git
 
