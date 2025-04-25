@@ -24,7 +24,7 @@ Visual Studio Code is a powerful and versatile code editor that will be used thr
     code --version
     ```
     
-**(A screenshot of VS code launch page)** ![VSCode Installation](/img/VS_Code_Statup.png)
+**(A screenshot of Welcome Image of Visual Studio Code)** ![VSCode Installation](/img/VS_Code_Statup.png)
 
 ### 2. Git
 
@@ -36,11 +36,13 @@ Git is a distributed version control system essential for managing code changes 
     **(Optional: Include a screenshot of the Git download page.)**
 2.  Download the appropriate version for your operating system.
 3.  Run the installer and follow the prompts. For most users, the default settings are suitable.
-    **(Optional: A screenshot of a significant step during the Git installation.)**
+    
 4.  To verify the installation, open your command prompt (Windows) or terminal (macOS/Linux) and run the command:
     ```bash
     git --version
     ```
+   ![A screenshot of a successful installation  by showing the git version]()
+    
     This should display the installed Git version.
     **(Sample output of Successful Installation for git on windowa)** ![Git Installation](/img/Windows_Git_Successful_Installation.png)
 
