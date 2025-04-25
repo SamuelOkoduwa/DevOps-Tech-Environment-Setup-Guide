@@ -41,7 +41,7 @@ Git is a distributed version control system essential for managing code changes 
     ```bash
     git --version
     ```
-   ![A screenshot of a successful installation  by showing the git version]()
+   ![A screenshot of a successful installation  by showing the git version](/img/git%20--version%20command%20.png)
     
     This should display the installed Git version.
     **(Sample output of Successful Installation for git on windowa)** ![Git Installation](/img/Windows_Git_Successful_Installation.png)
@@ -58,7 +58,7 @@ VirtualBox is a powerful virtualization software that allows you to run other op
 3.  Run the installer and follow the on-screen instructions. You may be prompted to install network interfaces; it's generally safe to allow this.
 
 4.  After installation, you can find VirtualBox in your applications menu.
-    **Screenshot of the VirtualBox application window.** ![VirtualBox Installation](/img/Virtual_box_window.png)
+    **Screenshot of the VirtualBox application window installation comfirmation.** ![VirtualBox Installation](/img/Virtual_box_window.png)
 
 ### 4. Ubuntu on VirtualBox (Windows)
 
